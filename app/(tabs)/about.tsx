@@ -4,9 +4,9 @@ export default function AboutScreen() {
     return (
         <View style={styles.container}>
             <Text style={styles.text}>Desenvolvido Por Arthur Carelli</Text>
-            <Text style={styles.text}>Etapas Finalizadas: 6</Text>
-            {/* Próxima Etapa: https://docs.expo.dev/tutorial/screenshot/ */}
-            <Text style={styles.text}>Ultima Atualização: 7 de Abril 2025</Text>
+            <Text style={styles.text}>Etapas Finalizadas: 7</Text>
+            {/* Próxima Etapa: https://docs.expo.dev/tutorial/platform-differences/ */}
+            <Text style={styles.text}>Ultima Atualização: 12 de Abril 2025</Text>
         </View>
     )
 }
